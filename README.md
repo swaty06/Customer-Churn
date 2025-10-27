@@ -588,7 +588,7 @@ copies of the Software...
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by [Swathy Ramakrishnan]**
 
 [Back to Top](#-customer-churn-prediction-system)
 
