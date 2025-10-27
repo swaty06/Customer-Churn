@@ -579,18 +579,18 @@ copies of the Software...
 
 **Your Name**
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: sujswa@gmail.com
+- 💼 LinkedIn: ((https://www.linkedin.com/in/swathy-ramakrishnan/))
+- 🐱 GitHub: [@swaty06](https://github.com/swaty06)
+- 🌐 Portfolio: [yourwebsite.com](https://swaty06.github.io/portfolio/#home)
 
-**Project Link**: [https://github.com/yourusername/customer-churn-prediction](https://github.com/yourusername/customer-churn-prediction)
+**Project Link**: [https://github.com/yourusername/customer-churn-prediction](https://customer-churn-jntyln9q3aml4vtfmmisjj.streamlit.app/)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: [Kaggle Customer Churn Dataset](https://www.kaggle.com/datasets/)
+- **Dataset**: [Kaggle Customer Churn Dataset](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset)
 - **Streamlit**: Amazing framework for building ML web apps
 - **scikit-learn**: Comprehensive ML library
 - **XGBoost & LightGBM**: Powerful gradient boosting libraries
