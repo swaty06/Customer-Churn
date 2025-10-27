@@ -1,40 +1,5 @@
 # 📊 Customer Churn Prediction System
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
-![Streamlit](https://img.shields.io/badge/streamlit-1.31.0-FF4B4B.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2.2-F7931E.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-**A machine learning-powered web application to predict customer churn and improve retention strategies.**
-
-[Demo](#demo) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Documentation](#documentation)
-
-</div>
-
----
-
-## 📖 Table of Contents
-
-- [Overview](#overview)
-- [Demo](#demo)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Details](#model-details)
-- [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
-- [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## 🎯 Overview
 
 This project implements an end-to-end machine learning solution for predicting customer churn in subscription-based services (streaming platforms, SaaS, etc.). The system analyzes customer behavior patterns, usage statistics, and account information to identify at-risk customers and provide actionable retention strategies.
@@ -394,26 +359,6 @@ Top 10 predictive features:
 
 ---
 
-## 📸 Screenshots
-
-### Main Dashboard
-<img src="screenshots/dashboard.png" alt="Main Dashboard" width="800"/>
-
-*User-friendly interface for entering customer information*
-
----
-
-### Prediction Results
-<img src="screenshots/results.png" alt="Prediction Results" width="800"/>
-
-*Real-time churn prediction with probability breakdown*
-
----
-
-### Risk Assessment & Recommendations
-<img src="screenshots/recommendations.png" alt="Recommendations" width="800"/>
-
-*Personalized retention strategies based on risk level*
 
 ---
 
