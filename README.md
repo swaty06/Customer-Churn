@@ -50,7 +50,7 @@ This project implements an end-to-end machine learning solution for predicting c
 
 ## 🎬 Demo
 
-> **Live Demo**: [Add your deployed app link here]
+> **Live Demo**: [https://customer-churn-jntyln9q3aml4vtfmmisjj.streamlit.app/]
 
 <div align="center">
   <img src="screenshots/demo.gif" alt="Application Demo" width="800"/>
@@ -78,7 +78,7 @@ This project implements an end-to-end machine learning solution for predicting c
 
 ## 📊 Dataset
 
-The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/) and contains comprehensive customer information:
+The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/safrin03/predictive-analytics-for-customer-churn-dataset) and contains comprehensive customer information:
 
 ### Dataset Statistics
 - **Total Records**: 10,000+ customers
@@ -584,7 +584,7 @@ copies of the Software...
 - 🐱 GitHub: [@swaty06](https://github.com/swaty06)
 - 🌐 Portfolio: [yourwebsite.com](https://swaty06.github.io/portfolio/#home)
 
-**Project Link**: [https://github.com/yourusername/customer-churn-prediction](https://customer-churn-jntyln9q3aml4vtfmmisjj.streamlit.app/)
+**Project Link**: [https://github.com/swaty06/Customer-Churn]
 
 ---
 
