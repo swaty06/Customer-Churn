@@ -82,7 +82,7 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/safrin03/p
 
 ### Dataset Statistics
 - **Total Records**: 10,000+ customers
-- **Features**: 18 input variables
+- **Features**: 27 input variables
 - **Target**: Binary (Churn: Yes/No)
 - **Class Distribution**: Balanced dataset
 
@@ -199,7 +199,7 @@ Open your browser and navigate to `http://localhost:8501`
 
 | Parameter | Type | Range/Options | Description |
 |-----------|------|---------------|-------------|
-| Account Age | Integer | 0-120 | Customer account age in months |
+| Account Age | Integer | 0-100 | Customer account age in months |
 | Total Charges | Float | 0-10,000 | Cumulative spending in dollars |
 | Viewing Hours/Week | Float | 0-168 | Weekly viewing time |
 | Avg Viewing Duration | Float | 0-300 | Average session length (minutes) |
